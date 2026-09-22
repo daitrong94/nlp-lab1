@@ -1,0 +1,31 @@
+query,rank,doc_id,similarity,relevant
+health insurance plan,1,18383,0.618667483074988,True
+health insurance plan,2,16788,0.6093435280308381,True
+health insurance plan,3,17016,0.561284166121192,True
+health insurance plan,4,28712,0.5499232978511164,True
+health insurance plan,5,28605,0.5384149154721166,True
+car insurance quote,1,18966,0.49382231784839126,True
+car insurance quote,2,16788,0.47243939743527213,True
+car insurance quote,3,12563,0.4543243247492563,True
+car insurance quote,4,29273,0.4537070526242404,True
+car insurance quote,5,492,0.4283661476994792,True
+credit card debt,1,4046,0.6328751235713782,True
+credit card debt,2,28162,0.5411350424856123,True
+credit card debt,3,7746,0.511254380545147,True
+credit card debt,4,22346,0.4532124007095377,True
+credit card debt,5,19193,0.4285588144999797,True
+real estate house price,1,19519,0.4513893838683144,True
+real estate house price,2,27406,0.4039119602314698,True
+real estate house price,3,14874,0.38970632341708045,True
+real estate house price,4,14625,0.38202731450139277,True
+real estate house price,5,18380,0.3777993645942843,True
+online shopping discount,1,26739,0.42783843764102647,True
+online shopping discount,2,21471,0.2489338625821201,False
+online shopping discount,3,29898,0.24079918579793289,True
+online shopping discount,4,11819,0.23479160001921223,False
+online shopping discount,5,20485,0.22891107848188924,False
+school students education,1,26340,0.4913911904965337,False
+school students education,2,25101,0.445076300531661,True
+school students education,3,24712,0.4262318348947205,True
+school students education,4,9599,0.4062532419819951,True
+school students education,5,13076,0.39440786655370275,True
